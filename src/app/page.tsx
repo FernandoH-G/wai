@@ -9,7 +9,7 @@ export default function Home() {
       }}
     >
       <p>
-        WAI
+        WAI Containerized!!!
       </p>
     </main>
   );
